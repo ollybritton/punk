@@ -1,0 +1,24 @@
+TEAM
+This website was hand-crafted.
+
+Olly Britton
+Codey Person
+ollybritton.com
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+Pug - HTML Template Engine
+https://github.com/pugjs/pug
+
+Sass - Nice Looking Css
+http://sass-lang.com/guide
+
+
+_______________________________________________________________________________
+
+FONTS
+
+Roboto
+fonts.google.com

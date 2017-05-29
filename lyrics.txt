@@ -1,0 +1,108 @@
+Work it - q
+Make it - w
+Do it - e
+Make us - r
+
+Harder - t
+Better - y
+Faster - u
+Stronger - i
+
+More than - o
+Hour - a
+Our - d
+Never - g
+
+Ever - p
+After - s
+Work is - f
+Over - h
+
+Work it - q
+Make it - w
+Do it - e
+Make us - r
+
+Harder - t
+Better - y
+Faster - u
+Stronger - i
+
+Work it harder - q, t
+Make it better - w, y
+Do it faster - e, u
+Makes us stronger - r, i
+
+More than ever - o, p
+Hour after - a, s
+Our work is - d, f
+Never over - g, h
+
+Work it harder - q, t
+Make it better - w, y
+Do it faster - e, u
+Makes us stronger - r, i
+
+Work it harder - q, t
+Make it better - w, y
+Do it faster - e, u
+Makes us stronger - r, i
+
+Work it harder - q, t
+Make it better - w, y
+Do it faster - e, u
+Makes us stronger - r, i
+
+Work it harder - q, t
+Make it better - w, y
+Do it faster - e, u
+Makes us stronger - r, i
+
+Work it harder - q, t
+Make it better - w, y
+Do it faster - e, u
+Makes us stronger - r, i
+
+Work it harder - q, t
+Make it better - w, y
+Do it faster - e, u
+Makes us stronger - r, i
+
+Work it harder make it - q, t, w
+Do it faster makes us - e, u, r
+More than ever hour - o, p, a
+Our work is - d, f
+
+Work it harder make it - q, t, w
+Do it faster makes us - e, u, r
+More than ever hour - o, p, a
+Our work is never over - d, f, g, h
+
+Work it harder - q, t
+Make it better - w, y
+Do it faster - e, u
+Makes us stronger - r, i
+
+Work it harder make it - q, t, w
+Do it faster makes us - e, u, r
+More than ever hour - o, p, a
+Our work is - d, f
+
+Work it harder make it - q, t, w
+Do it faster makes us - e, u, r
+More than ever hour - o, p, a
+Our work is never over - d, f, g, h
+
+Work it harder - q, t
+Make it better - w, y
+Do it faster - e, u
+Makes us stronger - r, i
+
+Work it harder - q, t
+Do it faster - e, u
+More than ever - o, p
+Our work is never over - d, f, g, h
+
+Work it harder - q, t
+Make it better - w, y
+Do it faster - e, u
