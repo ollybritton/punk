@@ -117,6 +117,51 @@ var handle_input = function(code) {
         audios.first.over.play();
         text.innerHTML = "Over";
         break;
+
+      case keys.z:
+        audios.drums.boom.currentTime = 0;
+        audios.drums.boom.play();
+        break;
+
+      case keys.x:
+        audios.drums.clap.currentTime = 0;
+        audios.drums.clap.play();
+        break;
+
+      case keys.c:
+        audios.drums.hihat.currentTime = 0;
+        audios.drums.hihat.play();
+        break;
+
+      case keys.v:
+        audios.drums.kick.currentTime = 0;
+        audios.drums.kick.play();
+        break;
+
+      case keys.b:
+        audios.drums.openhat.currentTime = 0;
+        audios.drums.openhat.play();
+        break;
+
+      case keys.n:
+        audios.drums.ride.currentTime = 0;
+        audios.drums.ride.play();
+        break;
+
+      case keys.m:
+        audios.drums.snare.currentTime = 0;
+        audios.drums.snare.play();
+        break;
+
+      case keys[","]:
+        audios.drums.tink.currentTime = 0;
+        audios.drums.tink.play();
+        break;
+
+      case keys["."]:
+        audios.drums.tom.currentTime = 0;
+        audios.drums.tom.play();
+        break;
     }
   } else {
     switch(code) {
@@ -231,6 +276,51 @@ var handle_input = function(code) {
         audios.second.over.play();
         text.innerHTML = "Over";
         break;
+
+      case keys.z:
+        audios.drums.boom.currentTime = 0;
+        audios.drums.boom.play();
+        break;
+
+      case keys.x:
+        audios.drums.clap.currentTime = 0;
+        audios.drums.clap.play();
+        break;
+
+      case keys.c:
+        audios.drums.hihat.currentTime = 0;
+        audios.drums.hihat.play();
+        break;
+
+      case keys.v:
+        audios.drums.kick.currentTime = 0;
+        audios.drums.kick.play();
+        break;
+
+      case keys.b:
+        audios.drums.openhat.currentTime = 0;
+        audios.drums.openhat.play();
+        break;
+
+      case keys.n:
+        audios.drums.ride.currentTime = 0;
+        audios.drums.ride.play();
+        break;
+
+      case keys.m:
+        audios.drums.snare.currentTime = 0;
+        audios.drums.snare.play();
+        break;
+
+      case keys[","]:
+        audios.drums.tink.currentTime = 0;
+        audios.drums.tink.play();
+        break;
+
+      case keys["."]:
+        audios.drums.tom.currentTime = 0;
+        audios.drums.tom.play();
+        break;
     }
   }
 
@@ -240,6 +330,7 @@ var handle_input = function(code) {
 document.onkeydown = function(evt) {
     evt = evt || window.event;
     var charCode = evt.keyCode || evt.which;
+    console.log(charCode)
 
     if(charCode == keys["="]) {
       shift_bool = true;

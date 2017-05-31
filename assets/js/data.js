@@ -19,7 +19,17 @@ var keys = {
   f: 70,
   g: 71,
   h: 72,
-  "=": 187
+  "=": 187,
+
+  z: 90,
+  x: 88,
+  c: 67,
+  v: 86,
+  b: 66,
+  n: 78,
+  m: 77,
+  ",": 188,
+  ".": 190,
 };
 
 var audios = {
@@ -59,6 +69,18 @@ var audios = {
     stronger: new Audio("assets/audio/stronger_2.wav"),
     work_is: new Audio("assets/audio/work_is_2.wav"),
     work_it: new Audio("assets/audio/work_it_2.wav")
+  },
+
+  drums: {
+    boom: new Audio("assets/audio/drums/boom.wav"),
+    clap: new Audio("assets/audio/drums/clap.wav"),
+    hihat: new Audio("assets/audio/drums/hihat.wav"),
+    kick: new Audio("assets/audio/drums/kick.wav"),
+    openhat: new Audio("assets/audio/drums/openhat.wav"),
+    ride: new Audio("assets/audio/drums/ride.wav"),
+    snare: new Audio("assets/audio/drums/snare.wav"),
+    tink: new Audio("assets/audio/drums/tink.wav"),
+    tom: new Audio("assets/audio/drums/tom.wav"),
   }
 };
 
