@@ -330,9 +330,8 @@ var handle_input = function(code) {
 document.onkeydown = function(evt) {
     evt = evt || window.event;
     var charCode = evt.keyCode || evt.which;
-    console.log(charCode)
 
-    if(charCode == keys["="]) {
+    if(charCode == keys["="] || charCode == 61) {
       shift_bool = true;
     } else if (charCode == last) {
       return;
@@ -351,7 +350,7 @@ document.onkeyup = function(evt) {
     evt = evt || window.event;
     var charCode = evt.keyCode || evt.which;
 
-    if(charCode == keys["="]) {
+    if(charCode == keys["="] || charCode == 61) {
       shift_bool = false;
     }
 
